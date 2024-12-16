@@ -54,6 +54,7 @@ header h1 {
   font-size: 1rem;
   text-transform: capitalize;
   font-family: "Press Start 2P", system-ui;
+  border: 2.3px solid #4e0707 ;
 }
 
 .pokemon-card {
@@ -83,3 +84,4 @@ footer {
   margin-top: 20px;
   font-family: "Press Start 2P", system-ui;
 }
+
