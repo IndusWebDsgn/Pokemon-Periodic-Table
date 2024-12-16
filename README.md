@@ -5,11 +5,14 @@ This site uses the retro Press Start 2P font for a nostalgic feel.
 
 # Trends
 1)Represent Pokémon types (e.g., Fire, Water, Grass, etc.).
+
 2)Represent evolution stages:
 Unevolved
 First Evolution
 Second Evolution
+
 3)Base XP increases as you go down the table (↓).
+
 4)Pokémon are grouped into columns based on their type (→).
 
 # Credits
