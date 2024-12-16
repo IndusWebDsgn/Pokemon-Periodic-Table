@@ -4,13 +4,13 @@ This is a Pokémon Periodic Table, inspired by the periodic table of elements in
 This site uses the retro Press Start 2P font for a nostalgic feel.
 
 # Trends
-Represent Pokémon types (e.g., Fire, Water, Grass, etc.).
-Represent evolution stages:
+1)Represent Pokémon types (e.g., Fire, Water, Grass, etc.).
+2)Represent evolution stages:
 Unevolved
 First Evolution
 Second Evolution
-Base XP increases as you go down the table (↓).
-Pokémon are grouped into columns based on their type (→).
+3)Base XP increases as you go down the table (↓).
+4)Pokémon are grouped into columns based on their type (→).
 
 # Credits
 This project uses PokeAPI to import Pokémon images and information. Special thanks to PokeAPI for providing an amazing resource for Pokémon data.
